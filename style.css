@@ -1,0 +1,89 @@
+.h1-1{
+    color: #68217a;
+}
+table{
+    text-align: center;
+}
+th{
+    background-color: #ffff00;
+}
+/*** Day Section ***/
+.saturday{
+    background-color: #f6b93b;
+}
+.sunday{
+    background-color: #ff3f34;
+}
+.monday{
+    background-color: #0fbcf9;
+}
+
+.tuesday{
+    background-color: #78e08f;
+}
+.wednesday{
+    background-color: #d980fa;
+}
+.thursday{
+    background-color: #d1d8e0;
+}
+/*** Teachers'Name Section ***/
+.teachers{
+    background-color: #ffcccc;
+}
+/*** Course No Section ***/
+.a-1{
+    background-color: #ee82ee;
+}
+.a-2{
+    background-color: #8e4abe;
+}
+.a-3{
+    background-color: #2222fd;
+}
+.a-4{
+    background-color: #008000;
+}
+.a-5{
+    background-color: #ffff00;
+}
+.a-6{
+    background-color: #ffa500;
+}
+/*** Class Time Section ***/
+.b-1{
+    background-color: #ff6b81;
+}
+.b-2{
+    background-color: #2ed573;
+}
+/*** Room No Section ***/
+.room{
+    background-color: #c4e538;
+}
+/*** Text Section ***/
+p{
+    background-color: #d2d2d2;
+    color: #471ac4;
+    text-align: center;
+}
+/*** Heading Section ***/
+h3{
+    color: #f41313;
+}
+/*** Footer Section ***/
+img{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+
+/*** Footer Section ***/
+.footer{
+    text-align: center;
+    background-color: #45d76a;
+    color: #fff;
+    font-size: 40px;
+}
